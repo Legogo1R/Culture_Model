@@ -40,3 +40,5 @@ A time-step in the model is defined by the following activities:
 ## Simulation process
 
 ![](misc/Simulation.gif)
+
+We can clearly see that as time goes on there are less and less uniqe cultures remains.
